@@ -1,2 +1,2 @@
-# labs
-Soulcialites Laboratory &amp; Experiments
+# Laboratory &amp; Experiments
+
